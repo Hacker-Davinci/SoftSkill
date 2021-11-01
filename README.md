@@ -1,2 +1,2 @@
 # SoftSkill
-My Softskill and tips for learning
+My Softskill and tips for learning.
